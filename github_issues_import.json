@@ -1,0 +1,502 @@
+[
+  {
+    "title": "Semaine 1 — Préparation (Track A)",
+    "body": "**Phase:** Phase 0 — Préparation\n\n**Semaine:** 1\n\n- [ ] Choisir la stack mobile (React Native vs Kotlin)\n- [ ] Installer VSCode, Node, Git, Android Studio si besoin\n- [ ] Créer repo GitHub `portfolio` + README\n- [ ] Écrire/commiter `PLAN.md` dans le repo\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-0",
+      "week-1",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 2 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 2\n\n- [ ] Étudier balises sémantiques\n- [ ] Créer page biographie/présentation\n- [ ] Commit page-profile.html\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-2",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 3 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 3\n\n- [ ] Apprendre box-model et typography\n- [ ] Styliser la page profile\n- [ ] Commit CSS\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-3",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 4 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 4\n\n- [ ] Exercices Flexbox\n- [ ] Construire landing Flexbox\n- [ ] Commit landing-flexbox.html\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-4",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 5 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 5\n\n- [ ] Étudier Grid\n- [ ] Implémenter blog-grid layout\n- [ ] Commit blog-grid.html\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-5",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 6 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 6\n\n- [ ] Refaire landing en mobile-first\n- [ ] Ajouter srcset et images optimisées\n- [ ] Commit changes\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-6",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 7 — HTML/CSS/Responsive (Track A)",
+    "body": "**Phase:** Phase 1 — HTML/CSS/Responsive\n\n**Semaine:** 7\n\n- [ ] Lire checklist WCAG\n- [ ] Auditer une page et corriger issues\n- [ ] Commit A11Y_AUDIT.md\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-1",
+      "week-7",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 8 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 8\n\n- [ ] JS : variables, fonctions, scope\n- [ ] Exercices pratiques (fonctions)\n- [ ] Commit js-exercises\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-8",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 9 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 9\n\n- [ ] DOM : querySelector, events\n- [ ] Créer modal ou tabs\n- [ ] Commit widget\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-9",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 10 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 10\n\n- [ ] Étudier Promises & async/await\n- [ ] Faire fetch d'une API publique\n- [ ] Commit fetch-demo\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-10",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 11 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 11\n\n- [ ] Modules ES (import/export)\n- [ ] Refactor util module\n- [ ] Commit utils\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-11",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 12 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 12\n\n- [ ] Init npm, installer Vite\n- [ ] Config dev server & scripts\n- [ ] Commit project setup\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-12",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 13 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 13\n\n- [ ] TS : types de base, interfaces\n- [ ] Convertir petit module en TS\n- [ ] Commit ts-example\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-13",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 14 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 14\n\n- [ ] TS avancé : generics, unions\n- [ ] Migrer widget en TS\n- [ ] Commit\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-14",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 15 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 15\n\n- [ ] Installer Jest\n- [ ] Écrire tests unitaires (5 tests)\n- [ ] Commit tests\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-15",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 16 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 16\n\n- [ ] Assembler mini-projet (todo)\n- [ ] Ajouter localStorage persistence\n- [ ] Commit mini-todo\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-16",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 17 — JavaScript & TypeScript (Track A)",
+    "body": "**Phase:** Phase 2 — JavaScript & TypeScript\n\n**Semaine:** 17\n\n- [ ] Revue globale & corrections\n- [ ] Tag release v1\n- [ ] Publish release\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-2",
+      "week-17",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 18 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 18\n\n- [ ] Learn JSX, props, state\n- [ ] Create basic React app\n- [ ] Commit react-basics\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-18",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 19 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 19\n\n- [ ] useState/useEffect/hooks practice\n- [ ] Build controlled form\n- [ ] Commit form component\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-19",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 20 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 20\n\n- [ ] Install React Router, add pages\n- [ ] Setup navigation\n- [ ] Commit routes\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-20",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 21 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 21\n\n- [ ] Implement Context or Redux Toolkit\n- [ ] Setup global state for app\n- [ ] Commit state\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-21",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 22 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 22\n\n- [ ] Choose styling approach (Tailwind/CSS Modules)\n- [ ] Build reusable UI components\n- [ ] Commit design system start\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-22",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 23 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 23\n\n- [ ] Implement login flow (mock)\n- [ ] CRUD fetch with API\n- [ ] Commit auth feature\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-23",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 24 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 24\n\n- [ ] Write component tests (RTL)\n- [ ] Ensure coverage for key components\n- [ ] Commit tests\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-24",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 25 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 25\n\n- [ ] Run Lighthouse audit\n- [ ] Implement lazy loading / code splitting\n- [ ] Commit perf improvements\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-25",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 26 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 26\n\n- [ ] Accessibility audit & fixes\n- [ ] Update components for a11y\n- [ ] Commit fixes\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-26",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 27 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 27\n\n- [ ] Deploy app to Vercel/Netlify\n- [ ] Setup domain\n- [ ] Commit deployment config\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-27",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 28 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 28\n\n- [ ] Create GitHub Actions workflow (build + test)\n- [ ] Ensure CI passes on push\n- [ ] Commit workflow\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-28",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 29 — React & écosystème (Track A)",
+    "body": "**Phase:** Phase 3 — React & écosystème\n\n**Semaine:** 29\n\n- [ ] Polish UI, fix bugs, final tests\n- [ ] Tag release v1 CRUD\n- [ ] Update README\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-3",
+      "week-29",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 30 — Outils Dev & Design System (Track A)",
+    "body": "**Phase:** Phase 4 — Outils Dev & Design System\n\n**Semaine:** 30\n\n- [ ] Learn Git branching strategies\n- [ ] Open PR for a feature\n- [ ] Merge via PR\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-4",
+      "week-30",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 31 — Outils Dev & Design System (Track A)",
+    "body": "**Phase:** Phase 4 — Outils Dev & Design System\n\n**Semaine:** 31\n\n- [ ] Configure ESLint + Prettier\n- [ ] Add pre-commit hooks\n- [ ] Commit configs\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-4",
+      "week-31",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 32 — Outils Dev & Design System (Track A)",
+    "body": "**Phase:** Phase 4 — Outils Dev & Design System\n\n**Semaine:** 32\n\n- [ ] Use bundle-analyzer\n- [ ] Implement optimizations\n- [ ] Commit changes\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-4",
+      "week-32",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 33 — Outils Dev & Design System (Track A)",
+    "body": "**Phase:** Phase 4 — Outils Dev & Design System\n\n**Semaine:** 33\n\n- [ ] Finalize design system tokens\n- [ ] Document components\n- [ ] Commit design-system\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-4",
+      "week-33",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 34 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 34\n\n- [ ] Init React Native app (Expo)\n- [ ] Verify emulator runs\n- [ ] Commit initial RN app\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-34",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 35 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 35\n\n- [ ] Implement navigation + FlatList\n- [ ] Create detail screen\n- [ ] Commit features\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-35",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 36 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 36\n\n- [ ] Style components for mobile\n- [ ] Responsive assets handling\n- [ ] Commit UI\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-36",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 37 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 37\n\n- [ ] Implement camera or file access\n- [ ] Test permissions flow\n- [ ] Commit native feature\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-37",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 38 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 38\n\n- [ ] Network sync + AsyncStorage/DB\n- [ ] Test offline cases\n- [ ] Commit persistence\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-38",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 39 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 39\n\n- [ ] Debug on device/emulator\n- [ ] Write mobile test checklist\n- [ ] Commit tests\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-39",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 40 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 40\n\n- [ ] Build APK/IPA via Expo EAS or CLI\n- [ ] Sign app\n- [ ] Save build artifacts\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-40",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 41 — Mobile (Track A)",
+    "body": "**Phase:** Phase 5 — Mobile\n\n**Semaine:** 41\n\n- [ ] Performance profiling\n- [ ] Reduce bundle size\n- [ ] Final polish\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-5",
+      "week-41",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 42 — Projets & Portfolio (Track A)",
+    "body": "**Phase:** Phase 6 — Projets & Portfolio\n\n**Semaine:** 42\n\n- [ ] Build portfolio pages (projects/about/contact)\n- [ ] Deploy portfolio site\n- [ ] Commit portfolio\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-6",
+      "week-42",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 43 — Projets & Portfolio (Track A)",
+    "body": "**Phase:** Phase 6 — Projets & Portfolio\n\n**Semaine:** 43\n\n- [ ] Finalize CRUD app (UI, tests)\n- [ ] Add screenshots & README\n- [ ] Commit release\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-6",
+      "week-43",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 44 — Projets & Portfolio (Track A)",
+    "body": "**Phase:** Phase 6 — Projets & Portfolio\n\n**Semaine:** 44\n\n- [ ] Finalize mobile app assets\n- [ ] Create app store/play store metadata\n- [ ] Commit assets\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-6",
+      "week-44",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 45 — Projets & Portfolio (Track A)",
+    "body": "**Phase:** Phase 6 — Projets & Portfolio\n\n**Semaine:** 45\n\n- [ ] Write technical article (500–800 words)\n- [ ] Add to portfolio\n- [ ] Commit article\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-6",
+      "week-45",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 46 — Préparation à l’emploi (Track A)",
+    "body": "**Phase:** Phase 7 — Préparation à l’emploi\n\n**Semaine:** 46\n\n- [ ] Write technical CV (PDF)\n- [ ] Update LinkedIn profile\n- [ ] Prepare portfolio links\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-7",
+      "week-46",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 47 — Préparation à l’emploi (Track A)",
+    "body": "**Phase:** Phase 7 — Préparation à l’emploi\n\n**Semaine:** 47\n\n- [ ] Solve 10 coding challenges\n- [ ] Practice 5 mock interviews\n- [ ] Prepare 2-min pitches\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-7",
+      "week-47",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 48 — Buffer & perfectionnement (Track A)",
+    "body": "**Phase:** Phase 8 — Buffer & perfectionnement\n\n**Semaine:** 48\n\n- [ ] Fix leftover bugs\n- [ ] Improve docs\n- [ ] Open-source contribution (small PR)\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-8",
+      "week-48",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 49 — Buffer & perfectionnement (Track A)",
+    "body": "**Phase:** Phase 8 — Buffer & perfectionnement\n\n**Semaine:** 49\n\n- [ ] Polish portfolio SEO & metadata\n- [ ] Apply to 5 jobs\n- [ ] Network on LinkedIn\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-8",
+      "week-49",
+      "track-a"
+    ]
+  },
+  {
+    "title": "Semaine 50 — Buffer & perfectionnement (Track A)",
+    "body": "**Phase:** Phase 8 — Buffer & perfectionnement\n\n**Semaine:** 50\n\n- [ ] Final review of all projects\n- [ ] Prepare interview summary notes\n- [ ] Celebrate and plan next steps\n\n---\n\n*Auto-generated issue from PLAN.md — Track A*",
+    "assignee": null,
+    "labels": [
+      "phase-8",
+      "week-50",
+      "track-a"
+    ]
+  }
+]
