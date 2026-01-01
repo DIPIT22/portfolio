@@ -342,14 +342,14 @@
 
 # 🗓️ Dates exactes (Track A — 10 h/semaine)
 
-* **Phase 0** : 11 déc. 2025 → 17 déc. 2025
-* **Phase 1** : 18 déc. 2025 → 31 janv. 2026
-* **Phase 2** : 1 fév. 2026 → 12 avr. 2026
-* **Phase 3** : 13 avr. 2026 → 5 juil. 2026
-* **Phase 4** : 6 juil. 2026 → 2 août 2026
-* **Phase 5** : 3 août 2026 → 27 sept. 2026
-* **Phase 6** : 28 sept. 2026 → 25 oct. 2026
-* **Phase 7** : 26 oct. 2026 → 9 nov. 2026
-* **Phase 8** : 10 nov. 2026 → 30 nov. 2026
+* **Phase 0** : Préparation : 01 janv. 2026 → 07 janv. 2026
+* **Phase 1** : HTML/CSS : 08 janv. 2026 → 18 févr. 2026
+* **Phase 2** : JS/TS : 19 févr. 2026 → 29 avr. 2026
+* **Phase 3** : React : 30 avr. 2026 → 22 juil. 2026
+* **Phase 4** : Outils & Design : 23 juil. 2026 → 19 août 2026
+* **Phase 5** : Mobile : 20 août 2026 → 14 oct. 2026
+* **Phase 6** : Portfolio : 15 oct. 2026 → 11 nov. 2026
+* **Phase 7** : Préparation emploi : 12 nov. 2026 → 25 nov. 2026
+* **Phase 8** : Buffer : 26 nov. 2026 → 16 déc. 2026
 
-Fin prévue : **décembre 2026** ✔️
+Fin prévue : **16 décembre 2026** ✔️
